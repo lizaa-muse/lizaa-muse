@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Lizaa (@lizaa-muse)
 
-<!--
-**lizaa-muse/lizaa-muse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software dev, mostly backend and security tooling. Lately a lot of on-chain data work too. I like small tools that do one thing well.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Security research tooling and vulnerability reports
+- Data pipelines and wallet automation across Solana and EVM chains
+- Coding bounties on make.fun
+- LP strategy research and monitoring scripts
+
+## Tech & Tools
+
+- Go, Python, TypeScript, Solidity
+- Docker, Linux, PostgreSQL, GitHub Actions
+- Solana, Ethereum, BSC, Robinhood Chain
+
+## Get in touch
+
+- GitHub discussions work best
+- If something here looks useful or broken, open an issue
