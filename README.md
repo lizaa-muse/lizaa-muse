@@ -1,4 +1,4 @@
-# Hi, I'm Lizaa (@lizaa-muse)
+# Hi, I'm Lizaa
 
 Software dev, mostly backend and security tooling. Lately a lot of on-chain data work too. I like small tools that do one thing well.
 
